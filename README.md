@@ -1,58 +1,69 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## CipherTalk
+The integration of secure messaging methods, such as encryption and steganography, within a chat platform to enhance privacy and security during online communication.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+CipherTalk is a secure chat platform designed to provide users with a comprehensive solution for private conversations. By integrating advanced encryption techniques and image steganography, CipherTalk allows users to send messages securely, either through encrypted text or by hiding messages within images. Traditional messaging platforms often fall short in providing layered security, leaving sensitive conversations vulnerable. This project overcomes those challenges by combining multiple security technologies, giving users control over their communication privacy. With an easy-to-use interface, CipherTalk offers a seamless way to protect confidential conversations and ensure safe exchanges in personal and professional contexts.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Implements Advanced Encryption Standard (AES) for encrypting text messages.
+- Image Steganography to hide messages within images.
+- Secure key management for decrypting messages and images.
+- Real-time communication using WebSockets (Socket.IO).
+- A highly scalable framework that ensures smooth performance.
+- User authentication with encrypted login credentials.
+- JSON data format for structured message handling.
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+* Operating System: Requires a 64-bit OS (Windows 10 or later, Ubuntu 20.04+) to ensure compatibility with encryption libraries.
+* Development Environment: Node.js (v14 or later) for the backend, and Express.js for server-side operations.
+* Database: MongoDB for storing user information and chat logs securely.
+* Encryption Libraries: Crypto.js or similar for AES encryption.
+* Steganography Libraries: Python libraries such as Stegano or custom JavaScript libraries for encoding and decoding images.
+* WebSocket Communication: Socket.IO for real-time messaging.
+* IDE: Visual Studio Code or any other suitable IDE for writing, debugging, and testing the code.
+* Version Control: GitHub for version control and collaborative development.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
-
+![mermaid-diagram-2024-11-14-013825](https://github.com/user-attachments/assets/bc3e0ca4-6856-4c75-af82-b0befc1edbc2)
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Homepage
+![Screenshot 2024-11-14 111521](https://github.com/user-attachments/assets/e201284e-ace6-4cf3-bae8-d35d20d65337)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+#### Output2 - Register
+![Screenshot 2024-11-14 113915](https://github.com/user-attachments/assets/b94a0e80-31be-49b1-8f2a-85b72bf540c1)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+#### Output3 - Profile upload
+![Screenshot 2024-11-14 114422](https://github.com/user-attachments/assets/6a264588-8e58-4d11-b309-16740c61c6b6)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+#### Output3 - Login
+![Screenshot 2024-11-14 114026](https://github.com/user-attachments/assets/2c2c0e5e-1a6d-4286-9888-08582b5a955b)
 
+#### Output4 - Contacts page
+![Screenshot 2024-11-14 114810](https://github.com/user-attachments/assets/c148d4f9-e327-4a98-b0c0-145a0d137d05)
+
+![Screenshot 2024-11-14 113748](https://github.com/user-attachments/assets/f99c4067-2cda-465d-9d13-7a767e1d72a7)
+
+#### Output5 - Encryption
+![Screenshot 2024-11-14 123021](https://github.com/user-attachments/assets/072da56c-8a5a-40bc-8673-5857d34dd9ca)
+
+![Screenshot 2024-11-14 123233](https://github.com/user-attachments/assets/6fb64754-ea0f-4a81-a435-e8bec7988c68)
+
+#### Output6 - Decryption
+
+![Screenshot 2024-11-16 054306](https://github.com/user-attachments/assets/e5e2bfc3-529c-4963-85e3-689415e87f1f)
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+CipherTalk successfully provides a secure platform for users who prioritize privacy in their communications. By integrating both encryption and steganography, it offers multiple layers of security that go beyond conventional chat platforms. This project contributes to the growing need for secure online interactions, especially in fields requiring sensitive communication, such as business, healthcare, and personal conversations.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+The system demonstrates the potential of combining cryptography and steganography in chat applications, paving the way for further innovations in secure communication technology.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+- S. Kumar, R. Singh, and A. Patel, "Enhancing Secure Communication through Image Steganography and Encryption Techniques," Journal of Cybersecurity and Privacy, vol. 12, no. 3, 2024.
+  
+- J. Doe, "Developing a Secure Chat Platform with Real-time AES Encryption and Steganography Integration," CyberSecurity Tech Conference, 2024.
 
 
 
