@@ -47,9 +47,10 @@ CipherTalk is a secure chat platform designed to provide users with a comprehens
 ![Screenshot 2024-11-14 113748](https://github.com/user-attachments/assets/f99c4067-2cda-465d-9d13-7a767e1d72a7)
 
 #### Output5 - Encryption
-![Screenshot 2024-11-14 123021](https://github.com/user-attachments/assets/072da56c-8a5a-40bc-8673-5857d34dd9ca)
 
 ![Screenshot 2024-11-14 123233](https://github.com/user-attachments/assets/6fb64754-ea0f-4a81-a435-e8bec7988c68)
+
+![Screenshot 2024-11-14 123021](https://github.com/user-attachments/assets/072da56c-8a5a-40bc-8673-5857d34dd9ca)
 
 #### Output6 - Decryption
 
